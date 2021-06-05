@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-**subhaminion/subhaminion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### Hi there 👋
-
 #### My name is **Mayank Gupta 🚀**. I'm a 22 year old, full-stack software engineer. Passionate about helping organisations solve their large scale, distributed technical problems.
 
 I prefer to write **back-end** code, but I can do front-end if needed.  
