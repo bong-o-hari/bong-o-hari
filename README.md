@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My name is **Mayank Gupta 🚀**. I'm a 22 year old, full-stack software engineer. Passionate about helping organisations solve their large scale, distributed technical problems.
+#### My name is **Mayank Gupta 🚀**. I'm a 24 year old, full-stack software engineer. Passionate about helping organisations solve their large scale, distributed technical problems.
 
-I prefer to write **back-end** code, but I can do front-end if needed.  
+I prefer to write **back-end** code, but I can do the front-end if needed.  
 **Python, JavaScript** is my programming language of choice.
 
 - 📫 How to reach me: **bong_o_hari** is my default username for all social media
